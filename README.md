@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋, I'm Tejas Badhe
 
 # 💫 About Me:
 ⚡ I am a student<br>🌱 I’m currently learning JAVA & Python<br>🤝 I’m looking for help with DSA<br>🔭 I’m currently working on Nothing
